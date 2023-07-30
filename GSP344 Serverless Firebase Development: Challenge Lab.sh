@@ -1,3 +1,4 @@
+#!/bin/bash
 export REGION=us-central1
 export DATASET_SERVICE_NAME=netflix-dataset-service-449
 export FE_STAGING_SVC_NAME=frontend-staging-service-294
